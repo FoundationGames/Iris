@@ -1,0 +1,33 @@
+{
+  "iris.shaders.reloaded": "셰이더가 리로드되었습니다!",
+  "iris.keybind.reload": "셰이더 리로드",
+  "iris.keybinds": "Iris",
+  "iris.shaders.reloaded.failure": "셰이더를 리로드하는 데 실패하였습니다! 사유: %s",
+
+  "option.iris.back": "뒤로",
+  "option.iris.profile": "프로필",
+
+  "options.iris.apply": "적용",
+  "options.iris.refresh": "새로고침",
+  "options.iris.openShaderPackFolder": "셰이더 팩 폴더 열기...",
+  "options.iris.refreshShaderPacks": "셰이더 리로드",
+  "options.iris.shaderPackSelection": "셰이더 팩...",
+  "options.iris.shaderPackSelection.title": "셰이더 팩",
+
+  "pack.iris.select.title": "목록",
+  "pack.iris.configure.title": "설정",
+  "pack.iris.internal": "내부 셰이더",
+
+  "page.iris.notFound": "페이지를 찾을 수 없음",
+  "page.iris.invalid": "알맞지 않은 페이지: \"%s\"",
+  "page.iris.noConfig": "셰이더 팩 설정이 없습니다.",
+  "page.iris.noShaders": "셰이더 팩이 불러와지지 않았습니다.",
+
+  "property.iris.boolean.true": "참",
+  "property.iris.boolean.false": "거짓",
+  "property.iris.title.configScreen": "Iris 설정",
+  "property.iris.uiTheme": "UI 테마",
+  "property.iris.condenseShaderConfig": "셰이더 팩 설정 압축",
+
+  "tooltip.iris.config": "Iris 설정"
+}
